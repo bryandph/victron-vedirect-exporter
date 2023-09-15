@@ -28,3 +28,6 @@ v_mV 13720
 # TYPE vpv_mV gauge
 vpv_mV 13710
 ```
+
+### Grafana Dashboard
+![Grafana Dashboard](grafana-dashboard.png)
